@@ -307,6 +307,6 @@ textarea::placeholder{
     cursor: pointer;
 }
 .fu_on i:hover:nth-child(odd){
-    color: black;
+    color: red;
     cursor: pointer;
 }
