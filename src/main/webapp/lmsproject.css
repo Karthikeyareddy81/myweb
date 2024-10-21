@@ -38,7 +38,7 @@ body{
     background-color: rgb(67, 229, 229);
     padding: 7px;
     border-radius: 5px;
-    color: black;
+    color: whitesmoke;
     margin-top: 1;
 }
 .nc{
@@ -307,6 +307,6 @@ textarea::placeholder{
     cursor: pointer;
 }
 .fu_on i:hover:nth-child(odd){
-    color: red;
+    color: black;
     cursor: pointer;
 }
