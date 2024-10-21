@@ -41,7 +41,7 @@
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS35eMMzvA4tRQBb3AXpEvvuxsOhALSXjvotg&s" width="100px">
                     </div>
                     <div class="inner_para">
-                        <p class="p31 p32">What would you like to learn?</p>
+                        <p class="p31 p32">What would you like to learn ?</p>
                         <p class="p31 p33">What do you want to learn today? Discover the courses that's <br>right for you!</p>
                     </div>
                     <div class="inner_button">
