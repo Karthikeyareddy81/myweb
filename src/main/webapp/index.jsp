@@ -56,7 +56,7 @@
             <div class="u_line"></div>
             <div class="contact">
                 <p class="con_p con_p1">Contact Us</p>
-                <p class="con_p con_p2">If you need something, we’ll help you. Contact us anytime.</p>
+                <p class="con_p con_p2">If you need something, we will help you. Contact us anytime.</p>
                 <div class="contact_form">
                     <table cellspacing="25" cellpadding="15">
                         <tr>
