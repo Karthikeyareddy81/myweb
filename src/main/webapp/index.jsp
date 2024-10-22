@@ -77,7 +77,7 @@
             <div class="last_div">
                 <div class="copy_last">
                     <h6 class="h_last">C O P Y R I G H T S</h6><br>
-                    <p>@ 2013 ExcelR Solutions. All Rights<br><br>Reserved</p>
+                    <p>@ 2013 ExcelR Solutions. All Rights !<br><br>Reserved</p>
                 </div>
                 <div class="support_last">
                     <h6 class="h_last">S U P P O R T</h6>
